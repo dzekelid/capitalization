@@ -49,7 +49,7 @@ apis:
   tags: Capitalization
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/capitalization/master/_listings/xignite/gettopgainersbymarketcapitalization-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/capitalization/master/_listings/xignite/gettoplosersbymarketcapitalization-post.md
 x-common:
 - type: x-net-sdk
   url: http://xignite.github.io/DotNetSDK/
