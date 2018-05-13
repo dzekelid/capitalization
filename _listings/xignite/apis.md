@@ -50,8 +50,8 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/capitalization/master/_listings/xignite/gettoplosersbymarketcapitalization-post.md
-- name: Xignite Historical Get Top Gainers By Market Capitalization
-  description: This operation returns quote information about the top gaining equities
+- name: Xignite Historical Get Top Losers By Market Capitalization
+  description: This operation returns quote information about the top losing equities
     filtered by market capitalization from NYSE, NASDAQ and AMEX.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/280-xignite.jpg
   humanURL: http://www.xignite.com
@@ -59,7 +59,7 @@ apis:
   tags: Capitalization
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/capitalization/master/_listings/xignite/gettopgainersbymarketcapitalization-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/capitalization/master/_listings/xignite/gettoplosersbymarketcapitalization-post.md
 x-common:
 - type: x-net-sdk
   url: http://xignite.github.io/DotNetSDK/
