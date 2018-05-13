@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: Xignite Historical
-  description: This web service provides historical security pricing for US equities.
+  title: Xignite Historical Get Top Gainers By Market Capitalization
+  description: This operation returns quote information about the top gaining equities
+    filtered by market capitalization from NYSE, NASDAQ and AMEX.
   version: 1.0.0
 host: www.xignite.com
 basePath: xHistorical.json/XigniteHistorical
